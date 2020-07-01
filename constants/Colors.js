@@ -1,0 +1,28 @@
+export const Colors = {
+  white: '#FFFFFF',
+  gray: '#F2F2F2',
+  green: '#14CB94',
+  greenGradient: {
+    colors: ['#14CB94', '#46D666'],
+    start: [0.25, 0.25],
+    end: [0.75, 0.75],
+    locations: [0, 0.93],
+  },
+  purple: '#D860EC',
+  purpleGradient: {
+    colors: ['#D860EC', '#FB479D'],
+    start: [0.25, 0.25],
+    end: [0.75, 0.75],
+    locations: [0, 0.93],
+  },
+  black: '#000000',
+  darkGray: '#393D43',
+  mediumGray: '#808285',
+  mediumLightGray: '#B0B2B5',
+  lightGray: '#EBEBEB',
+  lightGrayOpacity: '#EBEBEB75',
+  gray1: '#333333',
+  blue: '#2FE6DB',
+  blueDark: '#16D5C5',
+  red: '#FB4772',
+}
